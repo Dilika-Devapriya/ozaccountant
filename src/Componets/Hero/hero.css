@@ -1,0 +1,27 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: url(../../assets/header_image.svg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    padding-top: 20%;
+
+}
+
+.hero-text{
+    color: aliceblue;
+    
+}
+h1{
+    font-size: 54px;
+    font-weight: 300;
+}
+.text1{
+    color: #FE6600;
+}
+p{
+    font-size: 32px;
+}
