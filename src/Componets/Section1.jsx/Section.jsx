@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './Section1.css'
-import image1 from '../../assets/image 1.svg'
+import image1 from '../../assets/image1.svg'
 
 const Section = () => {
   return (
