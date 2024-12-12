@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from 'react'
-import logo from '../../assets/oz-_logo.png'
+import logo from '../../assets/oz_logo.png'
 import './Navbar.css'
 
 const Navabar = () => {
