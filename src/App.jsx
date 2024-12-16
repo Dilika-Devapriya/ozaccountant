@@ -4,6 +4,8 @@ import Navabar from './Componets/Navbar/Navabar'
 import Hero from './Componets/Hero/Hero'
 import Shape from './Componets/Shape/Shape'
 import Section1 from './Componets/Section1.jsx/Section'
+import Section2 from './Componets/Section2/Section2'
+
 
 const App = () => {
   return (
@@ -12,6 +14,8 @@ const App = () => {
       <Hero/>
       <Shape/>
       <Section1/>
+      <Section2/>
+
     </div>
   )
 }
